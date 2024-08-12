@@ -1,0 +1,16 @@
+body{
+    background-color: #ffecec;
+}
+p{
+    font-family: "DM Serif Display", serif;
+    font-size: 300%;
+    font-weight: 400;
+    font-style: normal;
+    color: #8d0c03;
+    text-align: center;
+}
+p1{
+    font-size:100%;
+    text-align:left;
+    color:#8d0c03;
+}
